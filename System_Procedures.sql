@@ -1,4 +1,5 @@
 -- System procedures
+--
 
 EXEC sp_help 'dbo.c' -- you can specify table name + proc name + function + trigger name
 
